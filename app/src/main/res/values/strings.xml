@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="starbuzz_logo">starbuzz logo</string>
+    <string name="title_activity_drink_category">Drinks</string>
+    <string name="title_activity_food_category">Foods</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Foods</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
